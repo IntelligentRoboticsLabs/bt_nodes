@@ -1,0 +1,5 @@
+.gitingore
+_*.hpp
+_*.cpp
+_*.txt
+_*.xml
